@@ -34,8 +34,8 @@ float: left;
 
 
 .header{
-	margin-top: 160px;
-	margin-bottom: 40px;
+	margin-top: 120px;
+	margin-bottom: 0px;
 }
 
 
@@ -89,7 +89,7 @@ display: block;
 .form{
 position: relative;
 width: 478px;
-margin-top: 20px;
+margin-top: 0px;
 }
 
 .field{
